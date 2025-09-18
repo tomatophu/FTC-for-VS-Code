@@ -17,7 +17,7 @@ When coding a robot for FTC, Android Studio is usually one of the only options y
 It is required you have the Andriod Command Line Tools installed and have the latest version of the Official JDK along with the latest FTC SDK.
 
 ## Extension Settings
-There are currently no settings to edit.
+- *Use ADB*: Use ADB to push code remotely to a FTCRobotController. Requires ADB to be installed on computer.
 
 ## Release Notes
 Please check our [CHANGELOG File](./CHANGELOG.md)
